@@ -68,7 +68,6 @@ section{
 }
 .header-img{
     height: 490px;
-    border: 2px solid yellow;
     justify-content: space-around;
     display: flex;
     align-items: center;

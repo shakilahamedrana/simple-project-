@@ -63,7 +63,6 @@ section{
 .imagesd{
     width: 85%;
     background-size: cover;
-    border: 2px solid red;
     background-image: url('images/Group\ 13.png');
     background-repeat: no-repeat;
 }
@@ -226,7 +225,6 @@ section{
 }
 .section-heead{
     display: inline-block;
-    border: 2px solid red;
     padding: 10px 300px;
 }
 .section-title-imges img{

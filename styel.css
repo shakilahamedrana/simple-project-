@@ -134,8 +134,8 @@ section{
     height: 100%;
 }
 .banner-section-imege{
-    width: 50%;
     height: 100%;
+    width: 85%px;
     
 }
 .banner-section-imege img{
@@ -143,6 +143,7 @@ section{
     height: 85%;
     object-fit: cover;
     border-radius: 16px;
+    margin-top: 22px;
 }
 .banner-section-content h1{
     color: black;
@@ -602,9 +603,9 @@ section{
     width: 324px;
     padding: 25px;
     border-radius: 10px;
-    margin-left: 260px;
-    margin-top: -190px;
-    transform: rotate(-25deg);
+    margin-left: 310px;
+    margin-top: -180px;
+    transform: rotate(-20deg);
     
     
 }
